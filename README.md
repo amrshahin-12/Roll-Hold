@@ -1,6 +1,6 @@
 # 🎲 Pig Game
 
-A classic dice game built with HTML, CSS, and JavaScript where two players take turns rolling dice to accumulate points.
+A classic dice game built with HTML, CSS, and JavaScript where two players take turns rolling dice to accumulate points. This project was created as part of a JavaScript learning course to practice DOM manipulation, event handling, and game logic implementation.
 
 ## 🎮 How to Play
 
