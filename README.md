@@ -2,7 +2,7 @@
 
 A classic dice game built with HTML, CSS, and JavaScript where two players take turns rolling dice to accumulate points. This project was created as part of a JavaScript learning course to practice DOM manipulation, event handling, and game logic implementation.
 
-## 🎮 How to Play
+## How to Play
 
 ### Objective
 Be the first player to reach **100 points** or more by rolling dice and accumulating points.
@@ -42,7 +42,7 @@ Be the first player to reach **100 points** or more by rolling dice and accumula
 - **JavaScript (ES6+)** - Game logic and interactivity
 - **DOM Manipulation** - Dynamic UI updates
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 pig-game/
@@ -66,7 +66,7 @@ pig-game/
 3. **Start playing!** No additional setup required
 
 ### Play Online
-🎮 **[Play the game live here](https://amrshahin-12.github.io/Roll-Hold/)**
+ **[Play the game live here](https://amrshahin-12.github.io/Roll-Hold/)**
 
 
 ---
