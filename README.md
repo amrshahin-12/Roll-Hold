@@ -25,7 +25,7 @@ Be the first player to reach **100 points** or more by rolling dice and accumula
    - Click the "🔄 New game" button to start a fresh game
    - All scores are reset and Player 1 starts
 
-## 🚀 Features
+## Features
 
 - **Two-player gameplay** with alternating turns
 - **Visual dice rolling** with realistic dice images
@@ -35,7 +35,7 @@ Be the first player to reach **100 points** or more by rolling dice and accumula
 - **Responsive design** that works on different screen sizes
 - **Game state management** with proper reset functionality
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** - Structure and semantic markup
 - **CSS3** - Styling and animations
@@ -59,66 +59,16 @@ pig-game/
 └── README.md           # This file
 ```
 
-## 🎯 Game Logic
-
-### Core Functions
-- **`playerChange()`** - Handles switching between players
-- **Roll dice event** - Generates random dice roll and updates scores
-- **Hold event** - Adds current score to total and checks for winner
-- **New game event** - Resets all game state and UI
-
-### Key Variables
-- `activePlayer` - Tracks current player (0 or 1)
-- `currentScore` - Points accumulated in current turn
-- `total0`, `total1` - Total scores for each player
-- `isWin` - Boolean flag for game completion
-
-## 🎨 UI Features
-
-- **Player sections** with distinct styling for active/inactive states
-- **Dice display** that shows the current roll
-- **Score displays** for both current turn and total scores
-- **Button states** that disable when game ends
-- **Winner highlighting** with special styling
-
-## 🚀 How to Run
+## How to Run
 
 1. **Clone or download** the project files
 2. **Open** `index.html` in your web browser
 3. **Start playing!** No additional setup required
 
-### Local Development
-If you want to modify the game:
-1. Open the project in your preferred code editor
-2. Make changes to `script.js`, `style.css`, or `index.html`
-3. Refresh your browser to see changes
+### Play Online
+🎮 **[Play the game live here](https://amrshahin-12.github.io/Roll-Hold/)**
 
-## 🎯 Future Enhancements
-
-Potential improvements for the game:
-- [ ] Add sound effects for dice rolling
-- [ ] Implement player names input
-- [ ] Add customizable winning score
-- [ ] Include game statistics and history
-- [ ] Add animations for dice rolling
-- [ ] Implement mobile touch controls
-- [ ] Add multiplayer support over network
-
-## 📝 Game Strategy Tips
-
-- **Risk vs. Reward:** The more you roll, the higher your potential score, but also the higher risk of rolling a 1
-- **Hold early:** If you have a decent current score (15+ points), consider holding to avoid losing it
-- **Watch your opponent:** If they're close to winning, you might need to take more risks
-- **Start conservatively:** Early in the game, it's often better to hold with smaller scores
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements or bug fixes!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Enjoy playing Pig Game! 🎲**
+**Enjoy playing Pig Game! **
