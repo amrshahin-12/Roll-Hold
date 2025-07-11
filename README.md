@@ -66,7 +66,7 @@ pig-game/
 3. **Start playing!** No additional setup required
 
 ### Play Online
- **[Play the game live here](https://amrshahin-12.github.io/Roll-Hold/)**
+ **[Play the game live here](https://amrshahin-12.github.io/Roll-Hold-Game/)**
 
 
 ---
