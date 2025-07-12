@@ -42,23 +42,6 @@ Be the first player to reach **100 points** or more by rolling dice and accumula
 - **JavaScript (ES6+)** - Game logic and interactivity
 - **DOM Manipulation** - Dynamic UI updates
 
-## Project Structure
-
-```
-pig-game/
-├── index.html          # Main HTML file
-├── style.css           # CSS styles
-├── script.js           # JavaScript game logic
-├── dice-1.png          # Dice image for value 1
-├── dice-2.png          # Dice image for value 2
-├── dice-3.png          # Dice image for value 3
-├── dice-4.png          # Dice image for value 4
-├── dice-5.png          # Dice image for value 5
-├── dice-6.png          # Dice image for value 6
-├── pig-game-flowchart.png  # Game flow diagram
-└── README.md           # This file
-```
-
 ## How to Run
 
 1. **Clone or download** the project files
